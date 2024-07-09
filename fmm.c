@@ -1,4 +1,3 @@
-// Yonatan Benchabbat 345184295
 #include "fmm.h"
 
 void add_mat(int size, int* mat1, int* mat2, int* result);
